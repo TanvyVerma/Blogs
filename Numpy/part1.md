@@ -1,7 +1,11 @@
-I used to think NumPy was unnecessary — until one line replaced an entire loop.
-Understanding NumPy not as a library, but as a way of thinking
+# I used to think NumPy was unnecessary — until one line replaced an entire loop.
+✍️ **This article was originally written on Medium:** (https://medium.com/@vermatanvy38/numpy-didnt-just-teach-me-code-it-taught-me-to-think-in-arrays-483e0a345ec5)
 
-Why NumPy Changed My Perspective?
+### Understanding NumPy not as a library, but as a way of thinking
+
+---
+
+## Why NumPy Changed My Perspective?
 
 At first, NumPy felt unnecessary to me. I was already comfortable writing Python code, so I kept asking myself — why do we even need another library?
 
@@ -15,18 +19,21 @@ That’s when I realized NumPy isn’t an “extra” library — it’s a minds
 
 This blog isn’t a textbook explanation of NumPy. It’s my journey of understanding why NumPy exists, how it changes the way we write Python, and what made it click for me as a learner.
 
-Where Did NumPy Come From?
+---
+
+## Where Did NumPy Come From?
 
 Curious about why NumPy worked so well, I looked into its origin.
 
 Turns out, Python once had Numeric and Numarray, but they were slow and inconsistent.
 
-Become a member
 By 2005, Travis Oliphant merged the best of both to create NumPy — a library built on Python for usability and C for speed.
 
 This combination made array operations fast, memory-efficient, and powerful enough to become the backbone of Python’s scientific computing, powering libraries like Pandas, SciPy, and scikit-learn.
 
-Why NumPy Feels Different from Plain Python?
+---
+
+## Why NumPy Feels Different from Plain Python?
 
 Understanding NumPy’s origins is interesting, but its real impact becomes clear when you compare it with how we usually write Python code.
 
@@ -46,5 +53,7 @@ With this understanding in place, the next step is to see NumPy in action.
 
 With this understanding in place, the next step is to see NumPy in action — exploring how these ideas translate into actual code, functions, and practical operations.
 
-This is Part 1 of a three-part series on NumPy, focused on understanding why NumPy exists and how it changes the way we think.
+---
+
+📌 **This is Part 1 of a three-part series on NumPy**, focused on understanding why NumPy exists and how it changes the way we think.  
 In the next part, I’ll dive into real code, core functions, and hands-on examples.
